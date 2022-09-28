@@ -1,0 +1,15 @@
+C:\projetos\C#\ExerciseComposition1-CSharp\ExerciseComposition1-CSharp\bin\Debug\net6.0\ExerciseComposition1-CSharp.exe
+C:\projetos\C#\ExerciseComposition1-CSharp\ExerciseComposition1-CSharp\bin\Debug\net6.0\ExerciseComposition1-CSharp.deps.json
+C:\projetos\C#\ExerciseComposition1-CSharp\ExerciseComposition1-CSharp\bin\Debug\net6.0\ExerciseComposition1-CSharp.runtimeconfig.json
+C:\projetos\C#\ExerciseComposition1-CSharp\ExerciseComposition1-CSharp\bin\Debug\net6.0\ExerciseComposition1-CSharp.dll
+C:\projetos\C#\ExerciseComposition1-CSharp\ExerciseComposition1-CSharp\bin\Debug\net6.0\ExerciseComposition1-CSharp.pdb
+C:\projetos\C#\ExerciseComposition1-CSharp\ExerciseComposition1-CSharp\obj\Debug\net6.0\ExerciseComposition1-CSharp.csproj.AssemblyReference.cache
+C:\projetos\C#\ExerciseComposition1-CSharp\ExerciseComposition1-CSharp\obj\Debug\net6.0\ExerciseComposition1-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\C#\ExerciseComposition1-CSharp\ExerciseComposition1-CSharp\obj\Debug\net6.0\ExerciseComposition1-CSharp.AssemblyInfoInputs.cache
+C:\projetos\C#\ExerciseComposition1-CSharp\ExerciseComposition1-CSharp\obj\Debug\net6.0\ExerciseComposition1-CSharp.AssemblyInfo.cs
+C:\projetos\C#\ExerciseComposition1-CSharp\ExerciseComposition1-CSharp\obj\Debug\net6.0\ExerciseComposition1-CSharp.csproj.CoreCompileInputs.cache
+C:\projetos\C#\ExerciseComposition1-CSharp\ExerciseComposition1-CSharp\obj\Debug\net6.0\ExerciseComposition1-CSharp.dll
+C:\projetos\C#\ExerciseComposition1-CSharp\ExerciseComposition1-CSharp\obj\Debug\net6.0\refint\ExerciseComposition1-CSharp.dll
+C:\projetos\C#\ExerciseComposition1-CSharp\ExerciseComposition1-CSharp\obj\Debug\net6.0\ExerciseComposition1-CSharp.pdb
+C:\projetos\C#\ExerciseComposition1-CSharp\ExerciseComposition1-CSharp\obj\Debug\net6.0\ExerciseComposition1-CSharp.genruntimeconfig.cache
+C:\projetos\C#\ExerciseComposition1-CSharp\ExerciseComposition1-CSharp\obj\Debug\net6.0\ref\ExerciseComposition1-CSharp.dll
